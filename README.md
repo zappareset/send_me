@@ -1,1 +1,1 @@
-# send_me
+GUI iced para app sendme (https://github.com/n0-computer/sendme)
